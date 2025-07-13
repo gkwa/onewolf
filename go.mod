@@ -2,7 +2,7 @@ module github.com/taylormonacelli/onewolf
 
 go 1.23.0
 
-toolchain go1.24.4
+toolchain go1.24.5
 
 require (
 	github.com/taylormonacelli/coalfoot v0.0.13
