@@ -4,5 +4,5 @@ github.com/taylormonacelli/forestfish v0.0.9 h1:EHEkImUR5X/u7OpOSx4M9t51btRABjz0
 github.com/taylormonacelli/forestfish v0.0.9/go.mod h1:8Xio8qE+Hc/cthG+dNVLakh5qYHl05Sq5vS8XzU62sA=
 github.com/taylormonacelli/goldbug v0.0.6 h1:2NQnMjAfznHkKh8dKPTUHJqnswgqWrcF/NhOnm4TQRI=
 github.com/taylormonacelli/goldbug v0.0.6/go.mod h1:RmeCuiI1RYYPob+BPHEZcmp+IVd6EkoHsoRukenJmH0=
-golang.org/x/tools v0.39.0 h1:ik4ho21kwuQln40uelmciQPp9SipgNDdrafrYA4TmQQ=
-golang.org/x/tools v0.39.0/go.mod h1:JnefbkDPyD8UU2kI5fuf8ZX4/yUeh9W877ZeBONxUqQ=
+golang.org/x/tools v0.40.0 h1:yLkxfA+Qnul4cs9QA3KnlFu0lVmd8JJfoq+E41uSutA=
+golang.org/x/tools v0.40.0/go.mod h1:Ik/tzLRlbscWpqqMRjyWYDisX8bG13FrdXp3o4Sr9lc=
