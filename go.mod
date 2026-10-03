@@ -7,7 +7,7 @@ toolchain go1.27.1
 require (
 	github.com/taylormonacelli/coalfoot v0.0.13
 	github.com/taylormonacelli/goldbug v0.0.6
-	golang.org/x/tools v0.50.0
+	golang.org/x/tools v0.51.0
 )
 
 require github.com/taylormonacelli/forestfish v0.0.9 // indirect
